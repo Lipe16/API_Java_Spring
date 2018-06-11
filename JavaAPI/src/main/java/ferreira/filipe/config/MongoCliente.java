@@ -29,7 +29,7 @@ import com.mongodb.MongoClientURI;
 public class MongoCliente extends AbstractMongoConfiguration {
 
 		
-			private String URI = "mongodb://administrador:laranjada1994@localhost:27017/admin";
+			private String URI = "mongodb://administrador:senha@Endereco/admin";
 			private String DB = "banco";
 	
 			@Override
