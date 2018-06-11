@@ -5,7 +5,7 @@
 
 #### Trabalha também com criptográfia de senha de usuarios e utilização de tokens após o primeiro login.
 
-#### API é RestFull
+#### Adotei o REST nesta API.
 
 
 ### ilustração 00
