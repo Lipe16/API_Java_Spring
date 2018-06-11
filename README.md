@@ -1,6 +1,10 @@
 # API_Java_Spring
 ## API criada com Framework do Java, Spring e seus derivados, preparada para trabalhar com Banco de dados MongoDB
 
+#### API trabalha com as seguintes entidades até o momento: Categoria, Cidade, Empresa, Estado, Marca, Perfil, Pessoa, Produto, Unidade, Usuario, Varejista.
+
+### Trabalha também com criptográfia de senha de usuarios e utilização de tokens após o primeiro login.
+
 
 ### ilustração 00
 ![API](https://image.ibb.co/kNupho/Captura_de_tela_de_2018_06_10_23_59_54.png)
