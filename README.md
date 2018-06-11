@@ -5,6 +5,8 @@
 
 #### Trabalha também com criptográfia de senha de usuarios e utilização de tokens após o primeiro login.
 
+#### API é RestFull
+
 
 ### ilustração 00
 ![API](https://image.ibb.co/kNupho/Captura_de_tela_de_2018_06_10_23_59_54.png)
