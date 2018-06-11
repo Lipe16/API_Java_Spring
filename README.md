@@ -3,7 +3,7 @@
 
 #### API trabalha com as seguintes entidades até o momento: Categoria, Cidade, Empresa, Estado, Marca, Perfil, Pessoa, Produto, Unidade, Usuario, Varejista.
 
-### Trabalha também com criptográfia de senha de usuarios e utilização de tokens após o primeiro login.
+#### Trabalha também com criptográfia de senha de usuarios e utilização de tokens após o primeiro login.
 
 
 ### ilustração 00
